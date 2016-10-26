@@ -60,7 +60,7 @@ header a {
   text-align: left;
 }
 #logo:hover, #logo:focus {
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.0);
 }
 
 /* Navigation Menu */
